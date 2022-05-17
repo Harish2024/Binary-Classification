@@ -23,15 +23,32 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 3. Assign the counter value using the Counter Function and with the help of a for loop iterate over the values.
 4. Plot the row values in the graph.
 
-/<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## PROGRAM:
 
 ```
 /*
 Program to implement binary classification.
-Developed by: harish g
-Register Number: 212220230021
+Developed by: KRISHNA MOORTHY S
+Register Number: 212220230025
 */
 from numpy import where
 from collections import Counter
@@ -48,6 +65,20 @@ for label,_ in counter.items():
     pyplot.scatter(X[row_ix,0],X[row_ix,1],label=str(label))
 pyplot.legend()
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## OUTPUT:
 
